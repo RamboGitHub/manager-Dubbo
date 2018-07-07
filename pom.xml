@@ -183,7 +183,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>my-app-web</finalName>
+        <finalName>manager-Dubbo</finalName>
         <!--<plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
