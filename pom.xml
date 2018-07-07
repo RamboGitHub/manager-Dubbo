@@ -184,7 +184,7 @@
     </dependencies>
     <build>
         <finalName>my-app-web</finalName>
-        <plugins>
+        <!--<plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
@@ -211,6 +211,6 @@
 
                 </configuration>
             </plugin>
-        </plugins>
+        </plugins>-->
     </build>
 </project>
